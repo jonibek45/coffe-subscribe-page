@@ -1,0 +1,39 @@
+.main {
+    background: 
+    #2C343E;
+    width: 1200px;
+    height: 653px;
+    margin: 168px 80px 0 80px;
+    border-radius: 10px;
+
+
+.main__boxes {
+display: flex;
+justify-content: center;
+}
+
+.box {
+    margin: 198px 60px 99px 85px;
+}
+.box__text {
+margin-top: 38px;
+}
+.box__title {
+    font-family: 'Fraunces', serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 36px;
+ margin-bottom: 42px;
+    
+    color: #FEFCF7;
+}
+.box__subtitle {
+    font-family: 'Barlow';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #FEFCF7;
+}
+}

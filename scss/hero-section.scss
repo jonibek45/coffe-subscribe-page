@@ -1,0 +1,36 @@
+.hero {
+    margin: 0 80px 0 80px;
+    
+   
+    .hero__image {
+        background-image: url(../images/bitmap3-opt.png);
+        width: 1210px;
+        height: 450px;
+        border-radius: 10px;
+    }
+    .hero__text {
+        padding: 134px 0 134px 85px;
+    }
+    .hero__title {
+        font-family: 'Fraunces', serif;
+        font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 72px;
+    
+    color: #FEFCF7;
+    }
+    .hero__subtitle {
+        font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    
+    color: #FEFCF7;
+    
+    mix-blend-mode: normal;
+    opacity: 0.8;
+    margin-top: 32px;
+    }
+}

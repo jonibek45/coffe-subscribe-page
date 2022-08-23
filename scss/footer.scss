@@ -1,0 +1,21 @@
+footer {
+   
+    background: #2C343E;
+    width: 1200px;
+    height: 120px;
+    margin: 168px 80px 88px 80px;
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 47px 85px;
+   
+}
+.footer__list {
+    margin-right: 250px;
+}
+.footer__logo {
+    display: flex;gap: 23px;
+}
+}
